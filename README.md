@@ -337,7 +337,7 @@ GitHub will use the email that you configure with your Git client to track which
 
 ### GitHub Authentication
 
-In order to access GitHub from the terminal, you will need a personal access token. To create a personal access token, follow [these instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) to create a classic personal access token. When prompted for scopes, you can select all of them.
+In order to access GitHub from the terminal, you will need a personal access token. Create a personal access token now by following [these instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) for creating a classic token. When prompted for scopes, you can select all of them.
 
 ### Git Init & Clone
 
